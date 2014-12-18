@@ -1,0 +1,5 @@
+%{"exmerl": {:git, "git://github.com/pwoolcoc/exmerl.git", "26ce73d6694d21208ffbaa1e87abd9c5407a0409", []},
+  "floki": {:git, "git://github.com/philss/floki.git", "e70433a1959a554cd50e08cb345e0fd29913b415", []},
+  "hackney": {:hex, :hackney, "0.14.3"},
+  "httpoison": {:hex, :httpoison, "0.5.0"},
+  "idna": {:hex, :idna, "1.0.1"}}

@@ -1,0 +1,2 @@
+defmodule SonosController do
+end
